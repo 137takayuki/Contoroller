@@ -30,4 +30,8 @@ class HelloController extends AppController
             $this->set('post', $post);
         }
     }
+
+    public function save() {
+        
+    }
 }
