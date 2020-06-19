@@ -2,7 +2,7 @@
 /**
  * /app/Controller/HelloController.php
  */
-class HelloController extends AppController
+class churchesController extends AppController
 {
 
     /**自動レンダリング無効　*/
